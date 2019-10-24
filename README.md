@@ -32,6 +32,3 @@ npm run build
 # Swagger url Vue DevServer: http://localhost:5000/api-docs
 ```
 
-## Author
-
-[Ivan Seredkin](https://www.facebook.com/ivan.seredkin)
